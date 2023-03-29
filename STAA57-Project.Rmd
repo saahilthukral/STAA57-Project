@@ -1,0 +1,12 @@
+---
+title: "STAA57 Final"
+author: 'Saahil Thukral: 1007165434, Emin RZA: , Jason:'
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+```{r}
+library(tidyverse)
+```
+
